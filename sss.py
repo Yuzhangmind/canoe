@@ -5,6 +5,7 @@ c=complex(4,5)
 i=1
 a=input()
 a=int(a)
+print("ddd")
 while True:
     
     while True:
